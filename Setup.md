@@ -49,7 +49,7 @@ Inside the terminal:
 ```bash
 gcc hello.c -o hello
 ./hello
-
+```
 ## 🔹 Setup on macOS
 
 macOS is UNIX-based, so you already have the tools you need.
@@ -58,5 +58,12 @@ macOS is UNIX-based, so you already have the tools you need.
 - Press **Cmd + Space** → type `Terminal` → press Enter.
 
 ### 2. Connect to Glue
-```bash
+
 ssh your_directory_id@glue.umd.edu
+
+### 3. Compile and Run on Glue
+Inside the terminal:
+```bash
+gcc hello.c -o hello
+./hello
+```
