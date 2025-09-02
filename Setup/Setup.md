@@ -28,7 +28,7 @@ When you log in to `glue.umd.edu`, you are accessing your personal home director
 For Windows, the easiest option is **MobaXterm** — it combines SSH and file transfer in one program.
 
 ### 1. Install MobaXterm
-- Download the free Home Edition: [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/)
+- Download the free Home Edition: [https://mobaxterm.mobatek.net/download.html](https://mobaxterm.mobatek.net/download.html)
 - Install and launch the program.
 
 ### 2. Create a New Session
