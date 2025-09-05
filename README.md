@@ -9,6 +9,9 @@ My name is **Aman**, and I am an **Undergraduate Teaching Fellow (UTF)** for thi
 ## How to Use this Page
 You will find that I have broken content down into folders(should be visible above the readme for those of you new to Github). Some files will be readable the same way this is, and others may be C programs for example which you should compile and modify to learn about the behaviour of the language. In the beginning, I'll leave comments to help guide this exploration, but students will find themselves exceling as they take this initiative into their own hands. I'll also go through this during the first discussion.
 
+## NOTES ON SUBMITTING HOMEWORK
+It should be submitted on ELMS under the hw1 assignment. Please submit it as a zip file with your .c files in the zip. More to come, but this is the situation for now. Thanks!
+
 ## Office Hours
 - **When:** Sundays, 5:00 PM – 7:00 PM  
 - **Where:** Virtual (link/details provided on ELMS)
