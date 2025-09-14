@@ -14,7 +14,9 @@ It should be submitted on ELMS under the hw1 assignment. Please submit it as a z
 
 ## Office Hours
 - **When:** Sundays, 5:00 PM – 7:00 PM  
-- **Where:** Virtual (link/details provided on ELMS)
+- **Where:** Virtual: https://us04web.zoom.us/j/4702703477?pwd=cd0IzWJYOiy1fiFthaaFVveMfqwueA.1
+              - Meeting ID: 470 270 3477
+              - Passcode: 1234
 
 ## Contact
 If you spot any inconsistencies or have questions, feel free to reach out:  
