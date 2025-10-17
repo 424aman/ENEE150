@@ -2,24 +2,23 @@
 #include <string.h>
 
 // --------------------------------------------------
-// 1️⃣ Plain struct — must use "struct" keyword every time
-// --------------------------------------------------
+// 1️Plain struct — must use "struct" keyword every time
+
 struct Point {
     int x;
     int y;
 };
 
 // --------------------------------------------------
-// 2️⃣ Typedef struct — creates a cleaner alias (no "struct" keyword needed)
-// --------------------------------------------------
+// Typedef struct — creates a cleaner alias (no "struct" keyword needed)
+
 typedef struct {
     char name[30];
     int age;
 } Person;
 
 // --------------------------------------------------
-// 3️⃣ Nested struct — defines a struct inside another
-// --------------------------------------------------
+// Nested struct — defines a struct inside another
 typedef struct {
     char title[50];
     int pages;
@@ -35,9 +34,6 @@ typedef struct {
     Person author;
 } Book;
 
-// --------------------------------------------------
-// Main demo
-// --------------------------------------------------
 int main(void) {
     printf("=== STRUCT DEMO ===\n\n");
 
